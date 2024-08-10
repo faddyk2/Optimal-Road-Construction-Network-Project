@@ -1,0 +1,16 @@
+C:\Users\hd\source\repos\primOCR\primOCR\bin\Debug\net6.0-windows\primOCR.exe
+C:\Users\hd\source\repos\primOCR\primOCR\bin\Debug\net6.0-windows\primOCR.deps.json
+C:\Users\hd\source\repos\primOCR\primOCR\bin\Debug\net6.0-windows\primOCR.runtimeconfig.json
+C:\Users\hd\source\repos\primOCR\primOCR\bin\Debug\net6.0-windows\primOCR.dll
+C:\Users\hd\source\repos\primOCR\primOCR\bin\Debug\net6.0-windows\primOCR.pdb
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.Form1.resources
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.csproj.GenerateResource.cache
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.AssemblyInfoInputs.cache
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.AssemblyInfo.cs
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.csproj.CoreCompileInputs.cache
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.dll
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\refint\primOCR.dll
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.pdb
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\primOCR.genruntimeconfig.cache
+C:\Users\hd\source\repos\primOCR\primOCR\obj\Debug\net6.0-windows\ref\primOCR.dll
