@@ -28,11 +28,6 @@ This project aims to calculate the minimum cost or optimal road construction net
 7. Analyze the total cost after Prim's Algorithm optimization.
 
 ## Contributors
-- [Your Name]
-- [Additional Contributors, if any]
-
-## License
-[Specify the license for your project]
-
-## Acknowledgments
-Special thanks to [mention any individuals, organizations, or resources you'd like to acknowledge for their contributions or inspiration].
+- Faddy
+- Uzair Arif
+- M.Usama
